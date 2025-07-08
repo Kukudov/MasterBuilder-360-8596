@@ -1,0 +1,193 @@
+# MasterBuilder 360 - User Accounts
+
+## Admin Account (1)
+Email: admin@masterbuilder360.com
+Password: MB360Admin2024!
+Role: Admin
+Name: System Administrator
+
+## Manager Accounts (5)
+1. Email: j.mitchell@masterbuilder360.com
+   Password: MgrPass2024#1
+   Role: Manager
+   Name: John Mitchell
+
+2. Email: s.johnson@masterbuilder360.com
+   Password: MgrPass2024#2
+   Role: Manager
+   Name: Sarah Johnson
+
+3. Email: m.chen@masterbuilder360.com
+   Password: MgrPass2024#3
+   Role: Manager
+   Name: Michael Chen
+
+4. Email: e.rodriguez@masterbuilder360.com
+   Password: MgrPass2024#4
+   Role: Manager
+   Name: Emily Rodriguez
+
+5. Email: d.thompson@masterbuilder360.com
+   Password: MgrPass2024#5
+   Role: Manager
+   Name: David Thompson
+
+## Investor Accounts (5)
+1. Email: r.sterling@investors.com
+   Password: InvPass2024$1
+   Role: Investor
+   Name: Robert Sterling
+
+2. Email: m.wells@investors.com
+   Password: InvPass2024$2
+   Role: Investor
+   Name: Margaret Wells
+
+3. Email: j.morrison@investors.com
+   Password: InvPass2024$3
+   Role: Investor
+   Name: James Morrison
+
+4. Email: l.hamilton@investors.com
+   Password: InvPass2024$4
+   Role: Investor
+   Name: Lisa Hamilton
+
+5. Email: w.foster@investors.com
+   Password: InvPass2024$5
+   Role: Investor
+   Name: William Foster
+
+## Worker Accounts (25)
+1. Email: c.martinez@workers.com
+   Password: WrkPass2024@1
+   Role: Worker
+   Name: Carlos Martinez
+
+2. Email: a.kowalski@workers.com
+   Password: WrkPass2024@2
+   Role: Worker
+   Name: Anna Kowalski
+
+3. Email: t.anderson@workers.com
+   Password: WrkPass2024@3
+   Role: Worker
+   Name: Thomas Anderson
+
+4. Email: m.garcia@workers.com
+   Password: WrkPass2024@4
+   Role: Worker
+   Name: Maria Garcia
+
+5. Email: k.oconnor@workers.com
+   Password: WrkPass2024@5
+   Role: Worker
+   Name: Kevin O'Connor
+
+6. Email: j.lee@workers.com
+   Password: WrkPass2024@6
+   Role: Worker
+   Name: Jennifer Lee
+
+7. Email: r.silva@workers.com
+   Password: WrkPass2024@7
+   Role: Worker
+   Name: Roberto Silva
+
+8. Email: a.white@workers.com
+   Password: WrkPass2024@8
+   Role: Worker
+   Name: Amanda White
+
+9. Email: d.brown@workers.com
+   Password: WrkPass2024@9
+   Role: Worker
+   Name: Daniel Brown
+
+10. Email: s.turner@workers.com
+    Password: WrkPass2024@10
+    Role: Worker
+    Name: Sophie Turner
+
+11. Email: m.johnson@workers.com
+    Password: WrkPass2024@11
+    Role: Worker
+    Name: Marcus Johnson
+
+12. Email: i.rodriguez@workers.com
+    Password: WrkPass2024@12
+    Role: Worker
+    Name: Isabella Rodriguez
+
+13. Email: r.davis@workers.com
+    Password: WrkPass2024@13
+    Role: Worker
+    Name: Ryan Davis
+
+14. Email: n.wilson@workers.com
+    Password: WrkPass2024@14
+    Role: Worker
+    Name: Nicole Wilson
+
+15. Email: a.thompson@workers.com
+    Password: WrkPass2024@15
+    Role: Worker
+    Name: Alex Thompson
+
+16. Email: v.chen@workers.com
+    Password: WrkPass2024@16
+    Role: Worker
+    Name: Victoria Chen
+
+17. Email: j.miller@workers.com
+    Password: WrkPass2024@17
+    Role: Worker
+    Name: Jacob Miller
+
+18. Email: r.green@workers.com
+    Password: WrkPass2024@18
+    Role: Worker
+    Name: Rachel Green
+
+19. Email: c.moore@workers.com
+    Password: WrkPass2024@19
+    Role: Worker
+    Name: Christopher Moore
+
+20. Email: s.taylor@workers.com
+    Password: WrkPass2024@20
+    Role: Worker
+    Name: Stephanie Taylor
+
+21. Email: m.clark@workers.com
+    Password: WrkPass2024@21
+    Role: Worker
+    Name: Matthew Clark
+
+22. Email: l.martinez@workers.com
+    Password: WrkPass2024@22
+    Role: Worker
+    Name: Lauren Martinez
+
+23. Email: a.lewis@workers.com
+    Password: WrkPass2024@23
+    Role: Worker
+    Name: Andrew Lewis
+
+24. Email: m.walker@workers.com
+    Password: WrkPass2024@24
+    Role: Worker
+    Name: Megan Walker
+
+25. Email: b.hall@workers.com
+    Password: WrkPass2024@25
+    Role: Worker
+    Name: Benjamin Hall
+
+## Notes:
+- Admin has full access to all features and user management
+- Managers can control all projects and have access to all project-related features
+- Investors have read-only access to projects they are involved in, plus reports and budget information
+- Workers can only see tasks assigned to them and can track time and submit daily reports
+- All passwords are randomly generated and secure
+- Change default passwords upon first login in production environment
